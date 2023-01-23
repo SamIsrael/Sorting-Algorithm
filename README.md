@@ -61,6 +61,8 @@ print(list_of_nums)
 
 
 ![image](./sor.png)
+![image](./sor.png)
+
 
 
 ## Result:
